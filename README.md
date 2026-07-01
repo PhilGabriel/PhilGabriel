@@ -110,7 +110,11 @@ Die Social-Links unten — Antwort meist innerhalb eines Tages
 ## 📝 Neueste Blog-Posts
 
 <!-- BLOG-POST-LIST:START -->
-- Schau vorbei auf [philipp-gabriel.com](https://philipp-gabriel.com/) für aktuelle Artikel zu digitaler Souveränität, KI und Web-Infrastruktur.
+- [Digitale Souveränität und KI – Wenn der Präsident den Stecker zieht](https://philipp-gabriel.com/blog/digitale-souveraenitaet-ki-stecker/)
+- [Wie Cloudflare das Web neu schreibt – und was das für Sie bedeutet](https://philipp-gabriel.com/blog/wie-cloudflare-das-web-neu-schreibt/)
+- [Cloudflare statt EU-Cloud: Das teure Versagen der digitalen Souveränität](https://philipp-gabriel.com/blog/cloudflare-statt-eu-cloud/)
+- [Wie öffentliche APIs dem Gemeinwohl dienen: KVB-Daten und Ehrenfeld Kunstroute](https://philipp-gabriel.com/blog/oeffentliche-apis-gemeinwohl-kvb-ehrenfeld-kunstroute/)
+- [Vibe Coding: Chancen und Risiken der KI-gestützten Softwareentwicklung](https://blog.stroeer.de/knowledge/das-vibe-coding-dilemma-warum-ki-code-allein-keine-loesung-ist/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
