@@ -21,5 +21,8 @@ jobs:
       - name: Pull latest posts from philipp-gabriel.com
         uses: gautamkrishnar/blog-post-workflow@1.9.6
         with:
-          feed_list: "https://philipp-gabriel.com/feed/"
+          # philipp-gabriel.com is an Astro.js site, whose RSS/Atom feed
+          # (via @astrojs/rss) is served at /rss.xml, not the WordPress-style
+          # /feed/ path.
+          feed_list: "https://philipp-gabriel.com/rss.xml"
           max_post_count: 5

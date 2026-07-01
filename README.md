@@ -86,8 +86,8 @@ Die Social-Links unten — Antwort meist innerhalb eines Tages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PhilGabriel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="PhilGabriel's GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilGabriel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=PhilGabriel&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="PhilGabriel's GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilGabriel&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact&langs_count=8" alt="Top Languages" width="45%" />
 
 <img src="https://streak-stats.demolab.com/?user=PhilGabriel&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 
