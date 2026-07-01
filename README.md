@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hey,%20I'm%20Phil%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20small%20ideas%20that%20quietly%20make%20things%20better&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Infrastruktur+Tüftler;Self-Hosting+%7C+Automatisierung+%7C+Design;Von+Idee+%E2%86%92+Prototyp+%E2%86%92+Produkt" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Infrastruktur+T%C3%BCftler;Self-Hosting+%7C+Automatisierung+%7C+Design;Von+Idee+%E2%86%92+Prototyp+%E2%86%92+Produkt" alt="Typing SVG" />
 </a>
 
 </div>
@@ -66,12 +66,14 @@ Die Social-Links unten — Antwort meist innerhalb eines Tages
 
 <img src="https://skillicons.dev/icons?i=cloudflare,nginx,mysql,docker" alt="Server & Infrastruktur" />
 <br>
+
 ![Apache](https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white) ![Pi-hole](https://img.shields.io/badge/pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
 
 **Tools & Workflow**
 
 <img src="https://skillicons.dev/icons?i=git,github" alt="Tools & Workflow" />
 <br>
+
 ![Jira](https://img.shields.io/badge/jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white) ![TOR](https://img.shields.io/badge/tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=white)
 
 **Design & Kreativ**
