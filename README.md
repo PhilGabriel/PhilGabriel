@@ -23,15 +23,13 @@ Working on small ideas<br>creating things that may help
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PhilGabriel&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PhilGabriel&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilGabriel&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PhilGabriel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhilGabriel&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false" alt="PhilGabriel's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilGabriel&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="49%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PhilGabriel&theme=material-palenight&hide_border=false" alt="GitHub Streak" width="70%" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PhilGabriel&icon=0&color=0)](https://visitcount.itsvg.in)
