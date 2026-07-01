@@ -14,6 +14,8 @@
 
 Ich bastle an kleinen Ideen, die im Alltag wirklich etwas bringen — von eigenen Web-Tools über selbst gehostete Infrastruktur bis hin zu Design-Projekten. Kein Enterprise-Bullshit, sondern Dinge, die funktionieren.
 
+Hauptberuflich beschäftige ich mich als Senior Communication Analyst mit Corporate Strategy, Innovation, Technical SEO und datengetriebener Kommunikation — mit einem Faible für Themen wie digitale Souveränität, Cloudflare & Co. sowie den Einfluss von KI auf die Web-Infrastruktur von morgen. Mehr davon auf meiner Website 👇
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -43,6 +45,7 @@ Die Social-Links unten — Antwort meist innerhalb eines Tages
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/philipp--gabriel.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://philipp-gabriel.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/philgabriel.cgn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abenteueranalog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philgabriel)
@@ -61,11 +64,15 @@ Die Social-Links unten — Antwort meist innerhalb eines Tages
 
 **Server & Infrastruktur**
 
-<img src="https://skillicons.dev/icons?i=cloudflare,nginx,apache,mysql,mariadb,docker,homeassistant,pihole" alt="Server & Infrastruktur" />
+<img src="https://skillicons.dev/icons?i=cloudflare,nginx,mysql,docker" alt="Server & Infrastruktur" />
+<br>
+![Apache](https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white) ![Pi-hole](https://img.shields.io/badge/pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
 
 **Tools & Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,jira,bitwarden,tor" alt="Tools & Workflow" />
+<img src="https://skillicons.dev/icons?i=git,github" alt="Tools & Workflow" />
+<br>
+![Jira](https://img.shields.io/badge/jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white) ![TOR](https://img.shields.io/badge/tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=white)
 
 **Design & Kreativ**
 
@@ -97,6 +104,14 @@ Die Social-Links unten — Antwort meist innerhalb eines Tages
 <img src="https://github-profile-trophy.vercel.app/?username=PhilGabriel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%" />
 
 </div>
+
+<br>
+
+## 📝 Neueste Blog-Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Schau vorbei auf [philipp-gabriel.com](https://philipp-gabriel.com/) für aktuelle Artikel zu digitaler Souveränität, KI und Web-Infrastruktur.
+<!-- BLOG-POST-LIST:END -->
 
 <br>
 
