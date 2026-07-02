@@ -1,20 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hey,%20I'm%20Phil%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20small%20ideas%20that%20quietly%20make%20things%20better&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=230&section=header&text=Philipp%20Gabriel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Communication%20Analyst%20%C2%B7%20Corporate%20Strategy%20%C2%B7%20Technical%20SEO&descAlignY=56&descSize=17" width="100%" alt="Philipp Gabriel – Header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Infrastruktur+T%C3%BCftler;Self-Hosting+%7C+Automatisierung+%7C+Design;Von+Idee+%E2%86%92+Prototyp+%E2%86%92+Produkt" alt="Typing SVG" />
+<a href="https://philipp-gabriel.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Datengetriebene+Kommunikation+%26+Analytics;Digitale+Souver%C3%A4nit%C3%A4t+%7C+Cloudflare+%7C+KI;Self-Hosting+%26+Homelab-T%C3%BCftler;Von+Idee+%E2%86%92+Prototyp+%E2%86%92+Produkt" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+**[Über mich](#ueber-mich) &nbsp;·&nbsp; [Schwerpunkte](#schwerpunkte) &nbsp;·&nbsp; [Tech Stack](#tech-stack) &nbsp;·&nbsp; [Stats](#stats) &nbsp;·&nbsp; [Blog](#blog) &nbsp;·&nbsp; [Kontakt](#kontakt)**
 
 </div>
 
 <br>
 
+<a name="ueber-mich"></a>
+
 ## 💫 Über mich
 
-Ich bastle an kleinen Ideen, die im Alltag wirklich etwas bringen — von eigenen Web-Tools über selbst gehostete Infrastruktur bis hin zu Design-Projekten. Kein Enterprise-Bullshit, sondern Dinge, die funktionieren.
+Hauptberuflich bin ich **Senior Communication Analyst** — mit Fokus auf Corporate Strategy, Innovation, Technical SEO und datengetriebener Kommunikation. Mich treibt die Frage um, wie digitale Souveränität, Cloudflare & Co. und KI die Web-Infrastruktur von morgen prägen.
 
-Hauptberuflich beschäftige ich mich als Senior Communication Analyst mit Corporate Strategy, Innovation, Technical SEO und datengetriebener Kommunikation — mit einem Faible für Themen wie digitale Souveränität, Cloudflare & Co. sowie den Einfluss von KI auf die Web-Infrastruktur von morgen. Mehr davon auf meiner Website 👇
+Nebenbei bastle ich an kleinen Ideen, die im Alltag wirklich etwas bringen — von eigenen Web-Tools über selbst gehostete Infrastruktur bis hin zu Design-Projekten. Kein Enterprise-Bullshit, sondern Dinge, die funktionieren.
 
 <table>
 <tr>
@@ -33,7 +39,50 @@ Vertiefung in Infrastruktur-Automatisierung & sauberere Frontend-Architekturen
 Mein Server läuft öfter zuverlässiger als so manche Enterprise-Cloud ☁️
 
 **📫 Erreichbar über**
-Die Social-Links unten — Antwort meist innerhalb eines Tages
+Die [Social-Links unten](#kontakt) — Antwort meist innerhalb eines Tages
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+➡️ Mehr über mich, meine Projekte und Artikel: **[philipp-gabriel.com](https://philipp-gabriel.com/)**
+
+</div>
+
+<br>
+
+<a name="schwerpunkte"></a>
+
+## 🧭 Schwerpunkte
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Analytics & Technical SEO
+Datengetriebene Kommunikation, Corporate Strategy und die technische Seite der Sichtbarkeit — von Crawling bis Core Web Vitals.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Digitale Souveränität
+Wer kontrolliert die Infrastruktur des Webs? Cloudflare, EU-Cloud & die unbequemen Fragen dahinter — regelmäßig [im Blog](https://philipp-gabriel.com/blog/).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 KI & Web-Infrastruktur
+Wie verändert KI das Web von morgen — vom Vibe Coding bis zur Frage, wem die Antwortmaschinen gehören.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 Self-Hosting & Homelab
+Eigene Infrastruktur statt Abhängigkeit: Docker, Nginx, Pi-hole, Home Assistant — Automatisierung, die den Alltag leiser macht.
 
 </td>
 </tr>
@@ -41,18 +90,7 @@ Die Social-Links unten — Antwort meist innerhalb eines Tages
 
 <br>
 
-## 🌐 Socials
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/philipp--gabriel.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://philipp-gabriel.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/philgabriel.cgn)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abenteueranalog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philgabriel)
-
-</div>
-
-<br>
+<a name="tech-stack"></a>
 
 ## 💻 Tech Stack
 
@@ -84,6 +122,8 @@ Die Social-Links unten — Antwort meist innerhalb eines Tages
 
 <br>
 
+<a name="stats"></a>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -95,13 +135,7 @@ Die Social-Links unten — Antwort meist innerhalb eines Tages
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhilGabriel&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="90%" />
 
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
+<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=PhilGabriel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%" />
 
@@ -109,7 +143,11 @@ Die Social-Links unten — Antwort meist innerhalb eines Tages
 
 <br>
 
+<a name="blog"></a>
+
 ## 📝 Neueste Blog-Posts
+
+Frisch von [philipp-gabriel.com/blog](https://philipp-gabriel.com/blog/) — automatisch aktualisiert:
 
 <!-- BLOG-POST-LIST:START -->
 - [Digitale Souveränität und KI – Wenn der Präsident den Stecker zieht](https://philipp-gabriel.com/blog/digitale-souveraenitaet-ki-stecker/)
@@ -135,16 +173,27 @@ Die Social-Links unten — Antwort meist innerhalb eines Tages
 
 <br>
 
----
+<a name="kontakt"></a>
+
+## 🌐 Kontakt
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=PhilGabriel&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PhilGabriel)
+[![Website](https://img.shields.io/badge/philipp--gabriel.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://philipp-gabriel.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philgabriel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abenteueranalog)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/philgabriel.cgn)
+
+<br>
 
 ### 💰 Unterstütze mich
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abenteueranalog)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Abenteueranalog)
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=PhilGabriel&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PhilGabriel)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
 
