@@ -150,11 +150,11 @@ Eigene Infrastruktur statt Abhängigkeit: Docker, Nginx, Pi-hole, Home Assistant
 Frisch von [philipp-gabriel.com/blog](https://philipp-gabriel.com/blog/) — automatisch aktualisiert:
 
 <!-- BLOG-POST-LIST:START -->
+- [Bot Yourself: Europas fehlende Antwort auf KI-Scraper und Bot-Traffic](https://philipp-gabriel.com/blog/europa-ki-scraper-antwort/)
 - [Digitale Souveränität und KI – Wenn der Präsident den Stecker zieht](https://philipp-gabriel.com/blog/digitale-souveraenitaet-ki-stecker/)
 - [Wie Cloudflare das Web neu schreibt – und was das für Sie bedeutet](https://philipp-gabriel.com/blog/wie-cloudflare-das-web-neu-schreibt/)
 - [Cloudflare statt EU-Cloud: Das teure Versagen der digitalen Souveränität](https://philipp-gabriel.com/blog/cloudflare-statt-eu-cloud/)
 - [Wie öffentliche APIs dem Gemeinwohl dienen: KVB-Daten und Ehrenfeld Kunstroute](https://philipp-gabriel.com/blog/oeffentliche-apis-gemeinwohl-kvb-ehrenfeld-kunstroute/)
-- [Vibe Coding: Chancen und Risiken der KI-gestützten Softwareentwicklung](https://blog.stroeer.de/knowledge/das-vibe-coding-dilemma-warum-ki-code-allein-keine-loesung-ist/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
