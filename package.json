@@ -1,0 +1,12 @@
+{
+  "name": "philgabriel-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "assets": "node scripts/profile.mjs assets",
+    "test": "node scripts/profile.test.mjs"
+  },
+  "devDependencies": {
+    "simple-icons": "16.36.0"
+  }
+}

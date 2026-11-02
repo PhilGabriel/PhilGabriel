@@ -1,8 +1,7 @@
-# Philipp Gabriel
-
-Senior Communication Analyst. Corporate Strategy, Technical SEO und datengetriebene Kommunikation.
-
-[philipp-gabriel.com](https://philipp-gabriel.com/) · [Blog](https://philipp-gabriel.com/blog/) · [LinkedIn](https://linkedin.com/in/philgabriel)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/header-dark.svg" />
+  <img src="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/header-light.svg" width="100%" alt="Philipp Gabriel, Senior Communication Analyst. Corporate Strategy, Technical SEO, datengetriebene Kommunikation." />
+</picture>
 
 ## Über mich
 
@@ -16,20 +15,29 @@ In meiner Freizeit baue ich kleine Werkzeuge für den Alltag. Dazu gehören Web-
 
 ## Schwerpunkte
 
-- **Analytics & Technical SEO:** datengetriebene Kommunikation und die technische Seite der Sichtbarkeit, von Crawling bis Core Web Vitals.
-- **Digitale Souveränität:** die Frage, wer die Infrastruktur des Webs kontrolliert. Cloudflare, EU-Cloud und die unbequemen Fragen dahinter behandle ich regelmäßig [im Blog](https://philipp-gabriel.com/blog/).
-- **KI & Web-Infrastruktur:** der Wandel des Webs durch KI, vom Vibe Coding bis zur Frage, wem die Antwortmaschinen gehören.
-- **Self-Hosting & Homelab:** eigene Infrastruktur mit Docker, Nginx, Pi-hole und Home Assistant statt Abhängigkeit von fremden Diensten.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/focus-dark.svg" />
+  <img src="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/focus-light.svg" width="100%" alt="Analytics & Technical SEO: datengetriebene Kommunikation und die technische Seite der Sichtbarkeit, von Crawling bis Core Web Vitals. Digitale Souveränität: Wer kontrolliert die Infrastruktur des Webs? Cloudflare, EU-Cloud und die unbequemen Fragen dahinter. KI & Web-Infrastruktur: Wie KI das Web verändert, vom Vibe Coding bis zur Frage, wem die Antwortmaschinen gehören. Self-Hosting & Homelab: Docker, Nginx, Pi-hole und Home Assistant als eigene Infrastruktur." />
+</picture>
 
 ## Stack
 
-| Bereich | Werkzeuge |
-| --- | --- |
-| Sprachen & Web | Python, PHP, HTML, JavaScript, Node.js, npm, Bootstrap |
-| Server & Infrastruktur | Cloudflare, Nginx, Apache, Docker, MySQL, MariaDB |
-| Homelab | Home Assistant, Pi-hole |
-| Tools & Workflow | Git, GitHub, Jira, Bitwarden, Tor |
-| Design | Illustrator, Photoshop, Premiere Pro, After Effects, Figma |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/stack-dark.svg" />
+  <img src="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/stack-light.svg" width="100%" alt="Sprachen und Web: Python, PHP, HTML, JavaScript, Node.js, npm, Bootstrap. Server und Infrastruktur: Cloudflare, Nginx, Apache, Docker, MySQL, MariaDB. Homelab: Home Assistant, Pi-hole. Tools: Git, GitHub, Jira, Bitwarden, Tor. Design: Illustrator, Photoshop, Premiere Pro, After Effects, Figma." />
+</picture>
+
+## GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/output/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/output/stats-light.svg" width="100%" alt="GitHub-Statistik von PhilGabriel: Beiträge, Repositories, Sterne, Follower und meistgenutzte Sprachen. Täglich aktualisiert." />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/output/github-contribution-grid-snake.svg" width="100%" alt="Animation: Eine Schlange frisst das Beitragsraster der letzten zwölf Monate" />
+</picture>
 
 ## Neueste Blog-Posts
 
@@ -43,16 +51,14 @@ Automatisch aktualisiert aus [philipp-gabriel.com/blog](https://philipp-gabriel.
 - [Wie öffentliche APIs dem Gemeinwohl dienen: KVB-Daten und Ehrenfeld Kunstroute](https://philipp-gabriel.com/blog/oeffentliche-apis-gemeinwohl-kvb-ehrenfeld-kunstroute/)
 <!-- BLOG-POST-LIST:END -->
 
-## Aktivität
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/output/github-contribution-grid-snake.svg" />
-  <img alt="Animation: Eine Schlange frisst das Beitragsraster der letzten zwölf Monate" src="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
 ## Kontakt
 
-[Website](https://philipp-gabriel.com/) · [LinkedIn](https://linkedin.com/in/philgabriel) · [Instagram](https://instagram.com/abenteueranalog) · [Facebook](https://facebook.com/philgabriel.cgn)
+<a href="https://philipp-gabriel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/btn-website-dark.svg" /><img src="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/btn-website-light.svg" height="40" alt="Website: philipp-gabriel.com" /></picture></a>
+<a href="https://linkedin.com/in/philgabriel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/btn-linkedin-dark.svg" /><img src="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/btn-linkedin-light.svg" height="40" alt="LinkedIn" /></picture></a>
+<a href="https://instagram.com/abenteueranalog"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/btn-instagram-dark.svg" /><img src="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/btn-instagram-light.svg" height="40" alt="Instagram" /></picture></a>
+<a href="https://facebook.com/philgabriel.cgn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/btn-facebook-dark.svg" /><img src="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/btn-facebook-light.svg" height="40" alt="Facebook" /></picture></a>
 
-Unterstützen: [Buy Me a Coffee](https://buymeacoffee.com/abenteueranalog) · [PayPal](https://paypal.me/Abenteueranalog)
+Unterstützen:
+
+<a href="https://buymeacoffee.com/abenteueranalog"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/btn-coffee-dark.svg" /><img src="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/btn-coffee-light.svg" height="40" alt="Buy Me a Coffee" /></picture></a>
+<a href="https://paypal.me/Abenteueranalog"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/btn-paypal-dark.svg" /><img src="https://raw.githubusercontent.com/PhilGabriel/PhilGabriel/main/assets/btn-paypal-light.svg" height="40" alt="PayPal" /></picture></a>

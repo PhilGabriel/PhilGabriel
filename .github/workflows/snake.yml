@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake Animation and Stats
 
 on:
   schedule:
@@ -15,16 +15,26 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate contribution snake SVGs
         uses: Platane/snk@v3.5.0
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Farben passend zu den Profil-Grafiken in assets/ (scripts/profile.mjs, THEMES)
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#b4561b&color_dots=#ebeef1,#f6d7b8,#eeae74,#d9843d,#b4561b
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#e3863b&color_dots=#161b22,#4a2a12,#7a4419,#b5621f,#e3863b
 
-      - name: Push snake SVGs to output branch
+      # Schlägt dieser Schritt fehl, bricht der Job ab und der output-Branch behält die alten Dateien.
+      - name: Generate stats SVGs
+        run: node scripts/profile.mjs stats dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
