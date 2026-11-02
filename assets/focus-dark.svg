@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="464" viewBox="0 0 1200 464" role="img" aria-label="Schwerpunkte: Analytics &amp; Technical SEO: Datengetriebene Kommunikation und die technische Seite der Sichtbarkeit, von Crawling bis Core Web Vitals. Digitale Souveränität: Wer kontrolliert die Infrastruktur des Webs? Cloudflare, EU-Cloud und die unbequemen Fragen dahinter. KI &amp; Web-Infrastruktur: Wie KI das Web verändert, vom Vibe Coding bis zur Frage, wem die Antwortmaschinen gehören. Self-Hosting &amp; Homelab: Docker, Nginx, Pi-hole und Home Assistant: eigene Infrastruktur statt Abhängigkeit.">
+<title>Schwerpunkte: Analytics &amp; Technical SEO: Datengetriebene Kommunikation und die technische Seite der Sichtbarkeit, von Crawling bis Core Web Vitals. Digitale Souveränität: Wer kontrolliert die Infrastruktur des Webs? Cloudflare, EU-Cloud und die unbequemen Fragen dahinter. KI &amp; Web-Infrastruktur: Wie KI das Web verändert, vom Vibe Coding bis zur Frage, wem die Antwortmaschinen gehören. Self-Hosting &amp; Homelab: Docker, Nginx, Pi-hole und Home Assistant: eigene Infrastruktur statt Abhängigkeit.</title>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#e6edf3}
+.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
+.muted{fill:#8b949e}
+.accent{fill:#e3863b}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="587" height="219" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="32" y="48" font-size="18" class="mono accent">01</text>
+<text x="32" y="90" font-size="28" font-weight="600">Analytics &amp; Technical SEO</text>
+<text x="32" y="132" font-size="21" class="muted"><tspan x="32" dy="0">Datengetriebene Kommunikation und die</tspan><tspan x="32" dy="30">technische Seite der Sichtbarkeit, von</tspan><tspan x="32" dy="30">Crawling bis Core Web Vitals.</tspan></text>
+<rect x="612.5" y="0.5" width="587" height="219" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="644" y="48" font-size="18" class="mono accent">02</text>
+<text x="644" y="90" font-size="28" font-weight="600">Digitale Souveränität</text>
+<text x="644" y="132" font-size="21" class="muted"><tspan x="644" dy="0">Wer kontrolliert die Infrastruktur des Webs?</tspan><tspan x="644" dy="30">Cloudflare, EU-Cloud und die unbequemen Fragen</tspan><tspan x="644" dy="30">dahinter.</tspan></text>
+<rect x="0.5" y="244.5" width="587" height="219" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="32" y="292" font-size="18" class="mono accent">03</text>
+<text x="32" y="334" font-size="28" font-weight="600">KI &amp; Web-Infrastruktur</text>
+<text x="32" y="376" font-size="21" class="muted"><tspan x="32" dy="0">Wie KI das Web verändert, vom Vibe Coding bis</tspan><tspan x="32" dy="30">zur Frage, wem die Antwortmaschinen gehören.</tspan></text>
+<rect x="612.5" y="244.5" width="587" height="219" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="644" y="292" font-size="18" class="mono accent">04</text>
+<text x="644" y="334" font-size="28" font-weight="600">Self-Hosting &amp; Homelab</text>
+<text x="644" y="376" font-size="21" class="muted"><tspan x="644" dy="0">Docker, Nginx, Pi-hole und Home Assistant:</tspan><tspan x="644" dy="30">eigene Infrastruktur statt Abhängigkeit.</tspan></text>
+</svg>

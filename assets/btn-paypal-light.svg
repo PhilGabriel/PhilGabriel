@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40" role="img" aria-label="PayPal">
+<title>PayPal</title>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#1f2328}
+.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
+.muted{fill:#59636e}
+.accent{fill:#b4561b}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="119" height="39" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="20" y="25.5" font-size="15" font-weight="600" style="fill:#1f2328">PayPal</text>
+<path d="M90 25 l10 -10 m-7 0 h7 v7" stroke="#b4561b" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
