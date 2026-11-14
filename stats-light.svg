@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="GitHub-Statistik: 122 Beiträge, letzte 12 Monate, 8 öffentliche Repositories, 7 Sterne erhalten, 1 Follower. Sprachen: JavaScript, PHP, Shell, Python, TypeScript, HTML">
+<title>GitHub-Statistik: 122 Beiträge, letzte 12 Monate, 8 öffentliche Repositories, 7 Sterne erhalten, 1 Follower. Sprachen: JavaScript, PHP, Shell, Python, TypeScript, HTML</title>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#1f2328}
+.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
+.muted{fill:#59636e}
+.accent{fill:#b4561b}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="1199" height="259" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="44" y="90" font-size="48" font-weight="700" letter-spacing="-1">122</text>
+<text x="44" y="120" font-size="18" class="muted">Beiträge, letzte 12 Monate</text>
+<text x="322" y="90" font-size="48" font-weight="700" letter-spacing="-1">8</text>
+<text x="322" y="120" font-size="18" class="muted">öffentliche Repositories</text>
+<text x="600" y="90" font-size="48" font-weight="700" letter-spacing="-1">7</text>
+<text x="600" y="120" font-size="18" class="muted">Sterne erhalten</text>
+<text x="878" y="90" font-size="48" font-weight="700" letter-spacing="-1">1</text>
+<text x="878" y="120" font-size="18" class="muted">Follower</text>
+<clipPath id="bar"><rect x="44" y="168" width="1112" height="10" rx="5"/></clipPath>
+<rect x="44" y="168" width="1112" height="10" rx="5" fill="#d0d7de"/>
+<g clip-path="url(#bar)"><rect x="44.0" y="168" width="350.9" height="10" fill="#f1e05a"/><rect x="396.9" y="168" width="239.1" height="10" fill="#4F5D95"/><rect x="638.0" y="168" width="156.5" height="10" fill="#89e051"/><rect x="796.5" y="168" width="145.4" height="10" fill="#3572A5"/><rect x="943.9" y="168" width="73.6" height="10" fill="#3178c6"/><rect x="1019.5" y="168" width="52.0" height="10" fill="#e34c26"/></g>
+<circle cx="49" cy="210" r="6" fill="#f1e05a"/><text x="60" y="214" font-size="17" class="muted">JavaScript 31,7 %</text><circle cx="250.84" cy="210" r="6" fill="#4F5D95"/><text x="261.84000000000003" y="214" font-size="17" class="muted">PHP 21,7 %</text><circle cx="386.03999999999996" cy="210" r="6" fill="#89e051"/><text x="397.03999999999996" y="214" font-size="17" class="muted">Shell 14,3 %</text><circle cx="540.28" cy="210" r="6" fill="#3572A5"/><text x="551.28" y="214" font-size="17" class="muted">Python 13,3 %</text><circle cx="704.04" cy="210" r="6" fill="#3178c6"/><text x="715.04" y="214" font-size="17" class="muted">TypeScript 6,8 %</text><circle cx="896.36" cy="210" r="6" fill="#e34c26"/><text x="907.36" y="214" font-size="17" class="muted">HTML 4,9 %</text>
+</svg>
